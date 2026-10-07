@@ -35,4 +35,5 @@ public class CalculatorTest {
                 () -> calculator.divide(10, 0)
         );
     }
+
 }
